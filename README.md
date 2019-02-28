@@ -1,4 +1,6 @@
 # TryNext
-Just and investigation of Next.js and Styled JSX
-npm install
-npm run dev
+Just an investigation of Next.js and Styled JSX
+
+`npm install`
+
+`npm run dev`
