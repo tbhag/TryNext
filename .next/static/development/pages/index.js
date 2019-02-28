@@ -2592,6 +2592,15 @@ function Home() {
       lineNumber: 6
     },
     __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_grid__WEBPACK_IMPORTED_MODULE_1__["Grid"], {
+    theme: "deth",
+    columns: 2,
+    children: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
   }));
 }
 
